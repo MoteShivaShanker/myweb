@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.231.143.34:8081/repository/shiva-releases/</url>
+		    <url>http://18.183.149.254:8081/repository/shiva-releases/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.231.143.34:8081/repository/shiva-releases/</url>
+		    <url>http://18.183.149.254:8081/repository/shiva-releases/</url>
 		</repository>
   	</distributionManagement>
 	
